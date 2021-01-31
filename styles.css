@@ -1,0 +1,17 @@
+.input-group-addon{
+    display: inline-block;
+    width:38px;
+    height: 38px;
+    padding-top: 7px;
+    place-content: center;
+    background-color: rgba(128, 128, 128, 0.493);
+    border-right: 2px solid rgb(88, 88, 88);
+}
+.monthly-payment{
+    width:auto;
+    padding-left:1rem;
+    padding-right:1rem;
+}
+#loading, #results{
+    display: none;
+}
